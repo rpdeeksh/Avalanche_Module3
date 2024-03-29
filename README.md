@@ -15,7 +15,7 @@ To run the MyTokenBoss contract, you can use Remix, an online Solidity IDE.
 1. Visit the Remix website at [https://remix.ethereum.org/](https://remix.ethereum.org/).
 2. Create a new file by clicking on the "+" icon in the left-hand sidebar.
 3. Save the file with a `.sol` extension (e.g., `mytoken.sol`).
-4. Copy and paste the Sanjan Token contract code into the file.
+4. Copy and paste the mytoken.sol contract code into the file.
 
 ```solidity
 // SPDX-License-Identifier: MIT
